@@ -96,7 +96,7 @@ padding:5px 20px;
   color: rgb(0, 136, 214);
 }
 #hero{
-  background-image:url("img/hero4.png") ;
+  background-image:url("/hero4.png") ;
   height: 90vh;
   width: 100%;
   background-position: top 25% right 0;
